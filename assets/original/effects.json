@@ -1,0 +1,52 @@
+[
+  {
+    "Effect": 0,
+    "Frames": 31034,
+    "SHA256": "97c05f7211519126e9ae31f9dca5518e9a92087c7fd0ddf55a07cce8d95277fc"
+  },
+  {
+    "Effect": 1,
+    "Frames": 31034,
+    "SHA256": "97c05f7211519126e9ae31f9dca5518e9a92087c7fd0ddf55a07cce8d95277fc"
+  },
+  {
+    "Effect": 2,
+    "Frames": 23952,
+    "SHA256": "86dbb17a6edcac8366d4ce1265a00ca9e536cc251cc9210f588e883a4b67859a"
+  },
+  {
+    "Effect": 3,
+    "Frames": 38922,
+    "SHA256": "451e5c506a5295f1ca9a8cff565ec49f79efc8d5b95feaeecdfa70f90e1b03a6"
+  },
+  {
+    "Effect": 4,
+    "Frames": 3819,
+    "SHA256": "0195dfe9f39f6c5bc2a036bf8a20d6d37d04cfd8faf1d905ebbc2659f04ff3ab"
+  },
+  {
+    "Effect": 5,
+    "Frames": 9930,
+    "SHA256": "b08ea5901df874cd6d6ddfaf9b846538550664e774eb1b9ac2726b9098044038"
+  },
+  {
+    "Effect": 6,
+    "Frames": 9930,
+    "SHA256": "1d3b3b8836ae58983a493b5a81498bf0f4d4a24595d98b1d0f2630433c7698f9"
+  },
+  {
+    "Effect": 7,
+    "Frames": 13750,
+    "SHA256": "ebe4cb57ef49df024380cb3d1c9aeb7a76e55bef8e4500e36202b1679a569f29"
+  },
+  {
+    "Effect": 8,
+    "Frames": 21389,
+    "SHA256": "0dfed8accee0888d675a450c0b99b16e67b461cd11fade9c17b71f4c82335e42"
+  },
+  {
+    "Effect": 9,
+    "Frames": 3055,
+    "SHA256": "e40bbba3276e63e7d8b7589a65e76eef7672d41a386f0b75c62f2f04592719c7"
+  }
+]

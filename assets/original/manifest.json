@@ -1,0 +1,169 @@
+{
+  "disk_sha256": "f70ac94e2820cbac5255aa1b3b18b44c090b0464d9fcda50cc2cae5dedc07689",
+  "files": {
+    "actors.bin": {
+      "bytes": 29952,
+      "sha256": "1aa01266e31c4c9deb0afb585e02763041d1466a313846ef1435d099eb8182ca"
+    },
+    "bandit_one.bin": {
+      "bytes": 1152,
+      "sha256": "9b6d59979251cc8a2a1afa6f05166cb26c4d5a7f3f50997299982774ee7faa8e"
+    },
+    "bandit_two.bin": {
+      "bytes": 4608,
+      "sha256": "d7bd5b8ca7f1b54408f992009bfc5185db193e6fae9ad80170481a9e8bb25219"
+    },
+    "entities.bin": {
+      "bytes": 1233792,
+      "sha256": "fdf8f596ca5bf04537f66baeab975714bebfb0a0ea896920af7512c97c4479df"
+    },
+    "fonts.bin": {
+      "bytes": 3540,
+      "sha256": "38a66ddad5561a0c58ff54fb826befb9773850c2845ca922efa18cdf640810b2"
+    },
+    "hud.png": {
+      "bytes": 2264,
+      "sha256": "38a3e51cb87b15cc766dff2b8886f055a38cb002dc669ad0457f5922584fbf21"
+    },
+    "icons.bin": {
+      "bytes": 3328,
+      "sha256": "1fc6a98455fdc9338f68989ca9eb5f5c0664f0e53849f373c40feed35b25bd20"
+    },
+    "maps.bin": {
+      "bytes": 2228224,
+      "sha256": "b9976bd231f3d6f181adcb943c05e51cc81b892baa763b3d10c0da502eabb852"
+    },
+    "palettes.bin": {
+      "bytes": 1632,
+      "sha256": "52aeeddaaf8b6623c0b351ced398d9250b9e2ff999b2cf5d1a457c433c348f04"
+    },
+    "tile_properties.bin": {
+      "bytes": 2210,
+      "sha256": "97c8f85a0f76595ff23b3d04abd210ffdb531467531ad159147cce289b7d134c"
+    },
+    "tiles.bin": {
+      "bytes": 31488,
+      "sha256": "32377ef4a81035e4ee2c0a615f4baf814af58b24c874e58e55f32c819bc67f31"
+    },
+    "timegates.map": {
+      "bytes": 8192,
+      "sha256": "62e74528540f079179b854bd275f87ad1e5504a5e45508ce26482f875cfc7d34"
+    },
+    "title.png": {
+      "bytes": 4685,
+      "sha256": "50ea0b4d91c1e0052619a961206af7f3cd793254fa2eee2a764ebaa60730482d"
+    },
+    "world_tables.bin": {
+      "bytes": 22130,
+      "sha256": "8e2d6b908c2c40af448893706495acb5fd0798dd1177304e2e0c306a93d307ce"
+    },
+    "worlds.json": {
+      "bytes": 259323,
+      "sha256": "78822240379739311a8325f37de83c75ca150a8a58d1c1e5445e3ff9c9385306"
+    },
+    "remaps.bin": {
+      "bytes": 13600,
+      "sha256": "fa32af563dc69d3b87b63f999c0723a1cd5f9497f46e2a28cfe54b516b1165e9"
+    },
+    "world_aux.bin": {
+      "bytes": 184416,
+      "sha256": "80801d4f58b0ef93d1dbf9c4cf6a30a235e3e8bc4666d74698ada051b566c2b5"
+    },
+    "entity_animations.bin": {
+      "bytes": 640,
+      "sha256": "d1e412c288744c2c24edf82d5c40301db81a9291e5c9573170cbc0a637e44ba5"
+    },
+    "effect-00.pcm": {
+      "bytes": 124136,
+      "sha256": "97c05f7211519126e9ae31f9dca5518e9a92087c7fd0ddf55a07cce8d95277fc"
+    },
+    "effect-01.pcm": {
+      "bytes": 124136,
+      "sha256": "97c05f7211519126e9ae31f9dca5518e9a92087c7fd0ddf55a07cce8d95277fc"
+    },
+    "effect-02.pcm": {
+      "bytes": 95808,
+      "sha256": "86dbb17a6edcac8366d4ce1265a00ca9e536cc251cc9210f588e883a4b67859a"
+    },
+    "effect-03.pcm": {
+      "bytes": 155688,
+      "sha256": "451e5c506a5295f1ca9a8cff565ec49f79efc8d5b95feaeecdfa70f90e1b03a6"
+    },
+    "effect-04.pcm": {
+      "bytes": 15276,
+      "sha256": "0195dfe9f39f6c5bc2a036bf8a20d6d37d04cfd8faf1d905ebbc2659f04ff3ab"
+    },
+    "effect-05.pcm": {
+      "bytes": 39720,
+      "sha256": "b08ea5901df874cd6d6ddfaf9b846538550664e774eb1b9ac2726b9098044038"
+    },
+    "effect-06.pcm": {
+      "bytes": 39720,
+      "sha256": "1d3b3b8836ae58983a493b5a81498bf0f4d4a24595d98b1d0f2630433c7698f9"
+    },
+    "effect-07.pcm": {
+      "bytes": 55000,
+      "sha256": "ebe4cb57ef49df024380cb3d1c9aeb7a76e55bef8e4500e36202b1679a569f29"
+    },
+    "effect-08.pcm": {
+      "bytes": 85556,
+      "sha256": "0dfed8accee0888d675a450c0b99b16e67b461cd11fade9c17b71f4c82335e42"
+    },
+    "effect-09.pcm": {
+      "bytes": 12220,
+      "sha256": "e40bbba3276e63e7d8b7589a65e76eef7672d41a386f0b75c62f2f04592719c7"
+    },
+    "effects.json": {
+      "bytes": 1279,
+      "sha256": "537fed9949d41df38e6f81a300cb7bd7477f259c6a981981c1105fb868351b9c"
+    },
+    "composite_tiles.bin": {
+      "bytes": 870400,
+      "sha256": "a52f3c35e8a9bc7d92fe129e51d2f4326947336a5ea564a121f10738ce574aa9"
+    },
+    "runtime_palettes.bin": {
+      "bytes": 8704,
+      "sha256": "1cb7b9d66029cf4c9abea6d1c309bd8aee92905c530e008ac3e08da7c963e577"
+    },
+    "script_state.bin": {
+      "bytes": 313344,
+      "sha256": "0e4e0eb3b95bfd04c97db8c5ecdd52b1abd293b16a703103f53f607b17c27e72"
+    },
+    "world_logic.bin": {
+      "bytes": 68358,
+      "sha256": "22171d8deec4f2d823262c180443c1019713ac10dc1bcee6a0016e30a8360b75"
+    },
+    "script_pre_state.bin": {
+      "bytes": 313344,
+      "sha256": "a56e8c59b0e4ad5491cb10455971c5ee3548d4cee16f1fb5710a8126d5f74303"
+    },
+    "spawn_masks.bin": {
+      "bytes": 256,
+      "sha256": "2b906a5f66b7e0d38f506a006fbcf9771e058e47fd8f56f59a0b3801c08ee295"
+    },
+    "artifacts.bin": {
+      "bytes": 1024,
+      "sha256": "5806062454d4b9ac17de15b26f80277570068b46e7fc65cf7c0979beed3e64cf"
+    },
+    "rating_data.bin": {
+      "bytes": 272,
+      "sha256": "73c7db0df2f3f52dcaa8cfe779b4a9da7405ec5185864ada11838c8b54a8fcfd"
+    },
+    "time_lords_logo.bin": {
+      "bytes": 1704,
+      "sha256": "0339a7962e5bc3c3847c52a542871ee75c6e0cc657027243e3ae4c9a0aeadfa6"
+    },
+    "todays_heroes_logo.bin": {
+      "bytes": 2840,
+      "sha256": "12b4560b249a4f7a548413b5e34a64f4842ae9c8c0476a68bf6b72184dc45570"
+    },
+    "title_logo.bin": {
+      "bytes": 12096,
+      "sha256": "c8ec085310c6315a70fc213f3015c9c19082d38f95eb52d4f85912aacf0fb28b"
+    },
+    "hud_logo.bin": {
+      "bytes": 6328,
+      "sha256": "682509697759c0af7fbe7c872451dce2730050449ecdc6c73a73d862ca85f3e7"
+    }
+  }
+}
